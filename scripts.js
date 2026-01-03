@@ -1,8 +1,8 @@
 const sayings = [
-    "Connecting outstanding talent with exceptional opportunities",
+    "Connecting Talent and Opportunity",
     "SAP BI Tools + Tableau + QLIKVIEW",
     "Flexibility + Agility + Customer Centricity",
-    "Unlocking potential through innovative career solutions"
+    "Unlocking Career Potential"
 ];
 
 let currentIndex = 0;
